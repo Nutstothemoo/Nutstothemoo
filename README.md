@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in blockchain Dev and Web dev
-- 🌱 I’m currently learning Javascript, HTML, CSS, Solidity
+- 🌱 I’m currently learning Javascript framework, Solidity , Web3 
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
 - 📫 How to reach me 
 - email: maximedupin1992@gmail.com
