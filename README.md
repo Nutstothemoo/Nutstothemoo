@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxime DUPIN from france
 
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in blockchain Dev and Web dev
 - 🌱 I’m currently learning Javascript, HTML, CSS, Solidity
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
 - 📫 How to reach me 
