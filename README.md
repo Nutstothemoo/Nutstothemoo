@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
 
 - 📫 How to reach me 
-- email: maximedupin1992@gmail.com
+- email: maximedupin1992@gmail.com  
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 - instagram: https://www.instagram.com/nutstothemoon/
 
 
