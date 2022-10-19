@@ -1,4 +1,3 @@
------------------
 <div align="center">:fire: <strong>Hi, I’m Maxime DUPIN</strong> from france:fire: </div>
 
 -----------------
