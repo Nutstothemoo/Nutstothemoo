@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-<div align="center"> ## :fire: <strong>Hi, I’m Maxime DUPIN</strong> from france  :fire: </div>
+<div align="center">:fire: <strong>Hi, I’m Maxime DUPIN</strong> from france:fire: </div>
 
   <br>
 
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Javascript framework, Solidity , Web3 
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
 
-- 📫 How to reach me 
+- 📫 How to reach me :
 - email: maximedupin1992@gmail.com  
 - instagram: https://www.instagram.com/nutstothemoon/
 
