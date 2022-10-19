@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-## ⚡️ 👋 Hi, I’m Maxime DUPIN from france </strong> ⚡️ 
+<div align="center"> ## :fire: <strong>Hi, I’m Maxime DUPIN</strong> from france  :fire: </div>
 
   <br>
 
