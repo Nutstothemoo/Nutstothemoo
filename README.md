@@ -4,8 +4,8 @@
 -----------------
 
 - 👀 I’m interested in blockchain Dev and Web dev
-- 🌱 I’m currently learning Javascript framework, Solidity , Web3 
-- 💞️ I’m looking to collaborate on any project with cool fueg dev
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on any project with fuego dev :fire:
 
 -----------------
 
