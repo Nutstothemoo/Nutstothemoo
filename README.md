@@ -1,6 +1,6 @@
 -----------------
 <div align="center">:fire: <strong>Hi, I’m Maxime DUPIN</strong> from france:fire: </div>
------------------
+
 
 - 👀 I’m interested in blockchain Dev and Web dev
 - 🌱 I’m currently learning Javascript framework, Solidity , Web3 
@@ -10,9 +10,9 @@
 
 - 📫 How to reach me :
 - email: maximedupin1992@gmail.com  
-- instagram: https://www.instagram.com/nutstothemoon/
+<a href="https://www.instagram.com/nutstothemoon/" target="_blank" rel="nofollow"><img align="right" alt=Maxime DUPIN Instagram" width="22px" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 -----------------
   <div>
