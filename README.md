@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me 
 - email: maximedupin1992@gmail.com  
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 - instagram: https://www.instagram.com/nutstothemoon/
 
 
@@ -46,5 +45,5 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://github-readme-stats.vercel.app/api?username=Nutstothemoo&show_icons=true&theme=algolia&count_private=true" width = 300>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nutstothemoo&theme=algolia" width = 300>
   <img src="https://activity-graph.herokuapp.com/graph?username=Nutstothemoo&theme=react-dark" />
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=badelgeek&layout=default&theme=algolia" > -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nutstothemoo&layout=default&theme=algolia" >
 </p>
