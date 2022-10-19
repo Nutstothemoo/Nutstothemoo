@@ -9,10 +9,10 @@
 -----------------
 
 - 📫 How to reach me :
-<div align = "center" display="flex" flex-direction="row">
-<a href="https://www.linkedin.com/in/maxime-dupin-64454a148/" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<div align = "center">
+<a display="inline" href="https://www.linkedin.com/in/maxime-dupin-64454a148/" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-<a href="https://www.instagram.com/nutstothemoon/" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Linkdein" height="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a display="inline" href="https://www.instagram.com/nutstothemoon/" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Linkdein" height="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 -----------------
