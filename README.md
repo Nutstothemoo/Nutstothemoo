@@ -1,16 +1,13 @@
-<!---
-Nutstothemoo/Nutstothemoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
---->
+-----------------
 <div align="center">:fire: <strong>Hi, I’m Maxime DUPIN</strong> from france:fire: </div>
-
+-----------------
   <br>
 
 - 👀 I’m interested in blockchain Dev and Web dev
 - 🌱 I’m currently learning Javascript framework, Solidity , Web3 
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
+
+-----------------
 
 - 📫 How to reach me :
 - email: maximedupin1992@gmail.com  
@@ -18,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-
-
+-----------------
   <div>
   <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
