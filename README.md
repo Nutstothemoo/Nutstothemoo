@@ -10,8 +10,10 @@
 
 - 📫 How to reach me :
 <div align = "center">
-    
-<a href="https://www.instagram.com/nutstothemoon/" target="_blank" rel="nofollow"><img align="right" alt=Maxime DUPIN Instagram" width="22px" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+
+<a href="https://www.instagram.com/nutstothemoon/" target="_blank" rel="nofollow"><img align="center" alt="Maxime DUPIN Instagram" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </div>
 
 -----------------
