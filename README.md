@@ -22,7 +22,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Nutstothemoo&show_icons=true&theme=algolia&count_private=true" width = 300>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nutstothemoo&theme=algolia" width = 300>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nutstothemoo&theme=react-dark" width = 600/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nutstothemoo&theme=react-dark" width = 600 height = 100/>
   
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nutstothemoo&layout=default&theme=algolia" > -->
 </p>
