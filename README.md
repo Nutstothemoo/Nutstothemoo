@@ -1,13 +1,3 @@
-##👋 Hi, I’m Maxime DUPIN from france ##
-
-
-- 👀 I’m interested in blockchain Dev and Web dev
-- 🌱 I’m currently learning Javascript framework, Solidity , Web3 
-- 💞️ I’m looking to collaborate on any project with cool fueg dev
-- 📫 How to reach me 
-- email: maximedupin1992@gmail.com
-- instagram: https://www.instagram.com/nutstothemoon/
-
 <!---
 Nutstothemoo/Nutstothemoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,6 +11,10 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in blockchain Dev and Web dev
 - 🌱 I’m currently learning Javascript framework, Solidity , Web3 
 - 💞️ I’m looking to collaborate on any project with cool fueg dev
+
+- 📫 How to reach me 
+- email: maximedupin1992@gmail.com
+- instagram: https://www.instagram.com/nutstothemoon/
 
 
   <div>
@@ -48,7 +42,7 @@ You can click the Preview link to take a look at your changes.
     </div>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nutstothemook&show_icons=true&theme=algolia&count_private=true" width = 300>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nutstothemoo&show_icons=true&theme=algolia&count_private=true" width = 300>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nutstothemoo&theme=algolia" width = 300>
   <img src="https://activity-graph.herokuapp.com/graph?username=Nutstothemoo&theme=react-dark" />
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=badelgeek&layout=default&theme=algolia" > -->
