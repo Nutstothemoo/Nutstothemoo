@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 - email: maximedupin1992@gmail.com  
 - instagram: https://www.instagram.com/nutstothemoon/
 
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
 
   <div>
   <br>
