@@ -18,7 +18,7 @@
 - My stack :
     
 <div align = "center">
-    <img src="https://skillicons.dev/icons?i=bash,git,react,typescript,html,css,js,nodejs,nextjs,mongodb,postgres" alt="skills actively learning logos"> <br> 
+    <img src="https://skillicons.dev/icons?i=bash,git,react,tailwind,typescript,js,express,nodejs,nextjs,mongodb,postgres" alt="skills actively learning logos"> <br> 
 </div>
 
 -----------------
