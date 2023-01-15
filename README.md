@@ -18,9 +18,6 @@
 - My stack :
     
 <div align = "center">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
     <img src="https://skillicons.dev/icons?i=bash,git,react,typescript,html,css,js,nodejs,nextjs,mongodb,postgres" alt="skills actively learning logos"> <br> 
 </div>
 
