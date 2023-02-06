@@ -19,7 +19,7 @@
 - My stack :
     
 <div align = "center">
-    <img src="https://skillicons.dev/icons?i=git,bash,typescript,js,solidity,express,nodejs,react,nextjs,tailwind,docker,graphql,mongodb,postgres&perline=5" alt="skills actively learning logos">
+    <img src="https://skillicons.dev/icons?i=git,bash,typescript,js,solidity,express,nodejs,react,nextjs,tailwind,figma,docker,graphql,mongodb,postgres&perline=5" alt="skills actively learning logos">
     
 </div>
   
