@@ -3,7 +3,7 @@
 
 -----------------
 
-- 👀 I’m interested in JS ecosystem, blockchain
+- 👀 I’m interested in Golang and Typescript ecosystem, blockchain
 - 💞️ I’m looking to collaborate on any project with fuego dev :fire:
 
 -----------------
