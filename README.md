@@ -32,7 +32,7 @@
 </div>
 
 -----------------
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nutstothemoo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!-- [![nutstothemoo's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutstothemoo&custom_title=Nutstothemoo's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/Nutstothemoo/github-readme-activity-graph)  /> -->
 
 
