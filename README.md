@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+MD+Welcome+to+my+Profile!" align="middle" alt="Hi, I’m Maxime DUPIN">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+MD+-+Fullstack+Dev+-+Go%2FTS" align="middle" alt="Hi, I’m MD - Fullstack Dev - Go/TS">
 <img  src="assests/borderseperator.gif">
 
 -----------------
