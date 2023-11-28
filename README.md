@@ -3,7 +3,8 @@
 
 -----------------
 
-- 👀 I’m interested in Golang and Typescript ecosystem, blockchain
+- 👀 I’m interested in Golang and Typescript/Javascript ecosystem, blockchain
+- CURRENTLY SEARCHING FOR GOOD FUEG FLUTTER OR NATIVE Developer New Banging secret start-up incomming  please contact me at maximedupin1992@gmail.com
 - 💞️ I’m looking to collaborate on any project with fuego dev :fire:
 
 -----------------
