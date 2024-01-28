@@ -24,7 +24,7 @@
 - My stack :
     
 <div align = "center">
-    <img src="https://skillicons.dev/icons?i=git,python,typescript,js,golang, solidity,express,nodejs,react,nextjs,tailwind,,docker,graphql,mongodb,postgres&perline=5" alt="skills actively learning logos">
+    <img src="https://skillicons.dev/icons?i=sql,python,typescript,js,golang, solidity,express,nodejs,react,nextjs,tailwind,,docker,graphql,mongodb,postgres&perline=5" alt="skills actively learning logos">
     
 </div>
   
