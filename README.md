@@ -9,7 +9,7 @@
 
 -----------------
 
-- CURRENTLY SEARCHING FOR GOOD FUEG FLUTTER OR NATIVE Developer New Banging secret start-up please contact me at maximedupin1992@gmail.com
+- CURRENTLY SEARCHING mobile dev New Banging secret start-up please contact me at maximedupin1992@gmail.com
 
 -----------------
 
